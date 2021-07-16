@@ -1,2 +1,3 @@
+include ':ashmodule'
 include ':app'
 rootProject.name = "ButtonTestLib"
